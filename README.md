@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnwoodwa&label=Profile%20views&color=0e75b6&style=flat" alt="mnwoodwa" /> </p>
 
-- 🌱 I’m currently learning **UI/UX, Game Development, interaction design, and web development. After graduation, I hope to go into designing user interface for games or find a career that combines design and technology. I enjoy using my skills to create and program visually appealing websites and user interactions within certain projects.**
-
-- ⚡Hobbies include **drawing, reading, making arts and crafts, theater, and traveling.**
+-  I’m currently learning UI/UX, game development, interaction design, and web development.
+-  After graduation, I hope to go into designing user interfaces for games or go into a career that combines design and technology.
+-  I enjoy using my skills to create and program visually appealing websites and user interactions.
+- Hobbies include **drawing, reading, making arts and crafts, theater, and traveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
